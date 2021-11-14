@@ -4,7 +4,7 @@ import random
 
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 600
-SCREEN_TITLE = "Plants VS Zombies"
+SCREEN_TITLE = "Plants VS test"
 
 
 class MyGame(arcade.Window):
